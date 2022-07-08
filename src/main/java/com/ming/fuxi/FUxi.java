@@ -12,6 +12,7 @@ public class FUxi {
         System.out.println("1111111111111111111111111111111");
         System.out.println("2222222222222222222222222222222");
          System.out.println("从GitHub上修改了代码");
+         System.out.println("GitHub导入Git");
         return  "hello"+name;
     }
 
