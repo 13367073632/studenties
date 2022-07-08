@@ -7,6 +7,7 @@ public class FUxi {
         System.out.println("哈哈");
         System.out.println("branch01");
         System.out.println("branch冲突master也修改");
+        System.out.println("冲突问题");
         return  "hello"+name;
     }
 
